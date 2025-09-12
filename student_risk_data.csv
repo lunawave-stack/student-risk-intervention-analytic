@@ -1,0 +1,112 @@
+Student ID,Age,Gender,Level,Absent Days (Term 1),Late Count,Referral Count,Referral Reason,Intervention Received,Improved?
+S001,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S002,13,F,Sec 1,12,7,5,Withdrawn,Counselling,No
+S003,15,M,Sec 3,5,3,2,Bullying,Parent Meeting,Yes
+S004,14,F,Sec 2,15,8,6,Withdrawn,Counselling,No
+S005,13,M,Sec 1,3,2,1,Disruptive,Peer Mentor,Yes
+S006,15,F,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S007,14,M,Sec 2,7,4,3,Bullying,Counselling,Yes
+S008,13,F,Sec 1,14,9,5,Withdrawn,Parent Meeting,No
+S009,15,M,Sec 3,4,1,1,Disruptive,Peer Mentor,Yes
+S010,14,F,Sec 2,11,7,4,Withdrawn,Peer Mentor,Yes
+S011,13,M,Sec 1,9,5,4,Disruptive,Counselling,No
+S012,15,F,Sec 3,6,3,2,Withdrawn,Peer Mentor,Yes
+S013,14,M,Sec 2,13,8,5,Bullying,Parent Meeting,No
+S014,13,F,Sec 1,2,1,0,None,None,Yes
+S015,15,M,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S016,14,F,Sec 2,7,4,3,Disruptive,Counselling,Yes
+S017,13,M,Sec 1,11,7,5,Withdrawn,Parent Meeting,No
+S018,15,F,Sec 3,5,2,2,Bullying,Peer Mentor,Yes
+S019,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S020,13,F,Sec 1,14,9,6,Withdrawn,Counselling,No
+S021,15,M,Sec 3,4,1,1,None,None,Yes
+S022,14,F,Sec 2,9,5,4,Withdrawn,Peer Mentor,Yes
+S023,13,M,Sec 1,6,3,2,Disruptive,Counselling,Yes
+S024,15,F,Sec 3,12,7,5,Bullying,Parent Meeting,No
+S025,14,M,Sec 2,3,1,1,None,None,Yes
+S026,13,F,Sec 1,10,6,4,Withdrawn,Peer Mentor,Yes
+S027,15,M,Sec 3,7,4,3,Disruptive,Counselling,Yes
+S028,14,F,Sec 2,13,8,5,Withdrawn,Parent Meeting,No
+S029,13,M,Sec 1,5,2,2,Bullying,Peer Mentor,Yes
+S030,15,F,Sec 3,8,5,3,Disruptive,Peer Mentor,Yes
+S031,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S032,13,F,Sec 1,12,7,5,Withdrawn,Counselling,No
+S033,15,M,Sec 3,5,3,2,Bullying,Parent Meeting,Yes
+S034,14,F,Sec 2,15,8,6,Withdrawn,Counselling,No
+S035,13,M,Sec 1,3,2,1,Disruptive,Peer Mentor,Yes
+S036,15,F,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S037,14,M,Sec 2,7,4,3,Bullying,Counselling,Yes
+S038,13,F,Sec 1,14,9,5,Withdrawn,Parent Meeting,No
+S039,15,M,Sec 3,4,1,1,Disruptive,Peer Mentor,Yes
+S040,14,F,Sec 2,11,7,4,Withdrawn,Peer Mentor,Yes
+S041,13,M,Sec 1,9,5,4,Disruptive,Counselling,No
+S042,15,F,Sec 3,6,3,2,Withdrawn,Peer Mentor,Yes
+S043,14,M,Sec 2,13,8,5,Bullying,Parent Meeting,No
+S044,13,F,Sec 1,2,1,0,None,None,Yes
+S045,15,M,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S046,14,F,Sec 2,7,4,3,Disruptive,Counselling,Yes
+S047,13,M,Sec 1,11,7,5,Withdrawn,Parent Meeting,No
+S048,15,F,Sec 3,5,2,2,Bullying,Peer Mentor,Yes
+S049,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S050,13,F,Sec 1,14,9,6,Withdrawn,Counselling,No
+S051,15,M,Sec 3,4,1,1,None,None,Yes
+S052,14,F,Sec 2,9,5,4,Withdrawn,Peer Mentor,Yes
+S053,13,M,Sec 1,6,3,2,Disruptive,Counselling,Yes
+S054,15,F,Sec 3,12,7,5,Bullying,Parent Meeting,No
+S055,14,M,Sec 2,3,1,1,None,None,Yes
+S056,13,F,Sec 1,10,6,4,Withdrawn,Peer Mentor,Yes
+S057,15,M,Sec 3,7,4,3,Disruptive,Counselling,Yes
+S058,14,F,Sec 2,13,8,5,Withdrawn,Parent Meeting,No
+S059,13,M,Sec 1,5,2,2,Bullying,Peer Mentor,Yes
+S060,15,F,Sec 3,8,5,3,Disruptive,Peer Mentor,Yes
+S061,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S062,13,F,Sec 1,12,7,5,Withdrawn,Counselling,No
+S063,15,M,Sec 3,5,3,2,Bullying,Parent Meeting,Yes
+S064,14,F,Sec 2,15,8,6,Withdrawn,Counselling,No
+S065,13,M,Sec 1,3,2,1,Disruptive,Peer Mentor,Yes
+S066,15,F,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S067,14,M,Sec 2,7,4,3,Bullying,Counselling,Yes
+S068,13,F,Sec 1,14,9,5,Withdrawn,Parent Meeting,No
+S069,15,M,Sec 3,4,1,1,Disruptive,Peer Mentor,Yes
+S070,14,F,Sec 2,11,7,4,Withdrawn,Peer Mentor,Yes
+S071,13,M,Sec 1,9,5,4,Disruptive,Counselling,No
+S072,15,F,Sec 3,6,3,2,Withdrawn,Peer Mentor,Yes
+S073,14,M,Sec 2,13,8,5,Bullying,Parent Meeting,No
+S074,13,F,Sec 1,2,1,0,None,None,Yes
+S075,15,M,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S076,14,F,Sec 2,7,4,3,Disruptive,Counselling,Yes
+S077,13,M,Sec 1,11,7,5,Withdrawn,Parent Meeting,No
+S078,15,F,Sec 3,5,2,2,Bullying,Peer Mentor,Yes
+S079,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S080,13,F,Sec 1,14,9,6,Withdrawn,Counselling,No
+S081,15,M,Sec 3,4,1,1,None,None,Yes
+S082,14,F,Sec 2,9,5,4,Withdrawn,Peer Mentor,Yes
+S083,13,M,Sec 1,6,3,2,Disruptive,Counselling,Yes
+S084,15,F,Sec 3,12,7,5,Bullying,Parent Meeting,No
+S085,14,M,Sec 2,3,1,1,None,None,Yes
+S086,13,F,Sec 1,10,6,4,Withdrawn,Peer Mentor,Yes
+S087,15,M,Sec 3,7,4,3,Disruptive,Counselling,Yes
+S088,14,F,Sec 2,13,8,5,Withdrawn,Parent Meeting,No
+S089,13,M,Sec 1,5,2,2,Bullying,Peer Mentor,Yes
+S090,15,F,Sec 3,8,5,3,Disruptive,Peer Mentor,Yes
+S091,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S092,13,F,Sec 1,12,7,5,Withdrawn,Counselling,No
+S093,15,M,Sec 3,5,3,2,Bullying,Parent Meeting,Yes
+S094,14,F,Sec 2,15,8,6,Withdrawn,Counselling,No
+S095,13,M,Sec 1,3,2,1,Disruptive,Peer Mentor,Yes
+S096,15,F,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S097,14,M,Sec 2,7,4,3,Bullying,Counselling,Yes
+S098,13,F,Sec 1,14,9,5,Withdrawn,Parent Meeting,No
+S099,15,M,Sec 3,4,1,1,Disruptive,Peer Mentor,Yes
+S100,14,F,Sec 2,11,7,4,Withdrawn,Peer Mentor,Yes
+S101,13,M,Sec 1,9,5,4,Disruptive,Counselling,No
+S102,15,F,Sec 3,6,3,2,Withdrawn,Peer Mentor,Yes
+S103,14,M,Sec 2,13,8,5,Bullying,Parent Meeting,No
+S104,13,F,Sec 1,2,1,0,None,None,Yes
+S105,15,M,Sec 3,10,6,4,Withdrawn,Peer Mentor,Yes
+S106,14,F,Sec 2,7,4,3,Disruptive,Counselling,Yes
+S107,13,M,Sec 1,11,7,5,Withdrawn,Parent Meeting,No
+S108,15,F,Sec 3,5,2,2,Bullying,Peer Mentor,Yes
+S109,14,M,Sec 2,8,5,3,Disruptive,Peer Mentor,Yes
+S110,13,F,Sec 1,14,9,6,Withdrawn,Counselling,No
+S111,15,M,Sec 3,4,1,1,None,None,Yes
