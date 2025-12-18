@@ -3,13 +3,12 @@
 > *A personal data project simulating early identification of at-risk students using attendance and behavioural referral data — designed to support evidence-based intervention strategies in Singapore schools.*
 
 **Author**: Pang Kah Hwee  
-**Role Target**: Data & AI Analyst, Character and Citizenship Education Branch (CCEB), MOE Singapore  
 **Tools Used**: Python (Pandas, Matplotlib, Seaborn), Excel, Googles Colab 
 **Date**: April 2025
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To demonstrate how simple data analysis and visualisation can uncover patterns in student behaviour — helping schools prioritise early interventions for students at risk of disengagement (e.g., from Values in Action or Uniformed Groups programmes).
 
@@ -20,7 +19,7 @@ This project simulates real-world school data to answer:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: Simulated dataset based on 3+ years of frontline student welfare experience in a MOE school.
 - **Size**: 111 anonymised student records.
@@ -33,7 +32,7 @@ This project simulates real-world school data to answer:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Risk Scoring**:  
    Engineered a simple risk score:  
@@ -51,7 +50,7 @@ This project simulates real-world school data to answer:
 
 ---
 
-## 📈 Visualisations Included
+## Visualisations Included
 
 - Scatter plot: Absenteeism vs. Referrals (coloured by improvement status)
 - Bar chart: Intervention success rates
@@ -59,7 +58,7 @@ This project simulates real-world school data to answer:
 
 ---
 
-## 💡 Why This Matters for CCEB
+## Why This Matters for CCEB
 
 This project mirrors the exact work CCEB needs:
 - Evaluating programme effectiveness (VIA/UG)
@@ -70,7 +69,7 @@ My goal: Scale this approach from 111 students to thousands — helping every Si
 
 ---
 
-## 🛠️ How to Run This Project
+## How to Run This Project
 
 1. Clone this repo.
 2. Install required libraries:  
@@ -80,8 +79,7 @@ My goal: Scale this approach from 111 students to thousands — helping every Si
 
 ---
 
-## 📬 Contact
+## Contact
 
 Pang Kah Hwee  
-📧 lunawave@hotmail.com  
-📱 +65 9880 4768
+Email: pangkahhwee@gmail.com  
